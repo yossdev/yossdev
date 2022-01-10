@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yossdev
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Go & React 
+- 💞️ I’m looking to collaborate on Go or React project
+- 📫 How to reach me yoseplog@outlook.com
 
 <!---
 yossdev/yossdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
