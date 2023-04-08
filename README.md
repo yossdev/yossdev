@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yossdev
-- 👀 I’m interested in WebDev
+- 👀 I’m interested in WebDev and AppDev
 - 🌱 I’m currently learning Fullstack Dev with Go & React
 - 💞️ I’m looking to collaborate on Go or React project
 - 📫 How to reach me yoseplog@outlook.com
