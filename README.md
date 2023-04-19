@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/-zig-black?style=for-the-badge&logo=zig)](https://www.ziglang.org/)
 [![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/) -
 [![](https://img.shields.io/badge/-JS/TS-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss)](https://www.tailwindcss.com/)
 
 ## Contact Me
 
