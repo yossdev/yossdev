@@ -2,14 +2,14 @@
 
 🚀 Make stuff.
 
-# Technologies I love
+## Technologies I love
 
 [![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)
 [![](https://img.shields.io/badge/-zig-black?style=for-the-badge&logo=zig)](https://www.ziglang.org/)
 [![](https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/) -
 [![](https://img.shields.io/badge/-JS/TS-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-# Contact Me
+## Contact Me
 
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:yosssdev@gmail.com)
 
